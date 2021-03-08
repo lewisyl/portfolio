@@ -13,13 +13,18 @@ const AboutMe = () => {
 				<div className="col-lg-6 col-xm-12">
 					<h1 className="about-heading">about me</h1>
 					<p>
-						Howdy! I am Lewis.I'm a Full-stack Software Engineer and Web
-						Developer who loves to solve problems and build things with full of
-						passions and a hard-working ethic. I'm also a great team-player who
-						believes in "1 + 1 > 2", and a fast learner who is able to absorb
-						new knowledge quickly.
+						&#128075;Howdy! I am Lewis, a &#128187;Full-stack Software Engineer
+						and Web Developer who loves to solve problems and build things with
+						&#128175;full of passions and a hard-working ethic. I'm also a great
+						&#128101;team-player who believes in "1+1>2", and a fast
+						&#9997;learner who is able to absorb new knowledge &#128640;quickly.
 					</p>
-					<p>Furthermore, I'm a scuba diver, traveler, hiker and dog lover.</p>
+					<p>
+						Furthermore, I love to spend my free time on &#127956;hiking,
+						&#129343;scuba diving, &#127965;traveling, &#127938;snowboarding,
+						&#127916;watching movies, and (maybe&#128514;) being &#128062;walked
+						by my dogs&#128054;.
+					</p>
 				</div>
 			</div>
 		</div>
