@@ -56,13 +56,29 @@ const Experiences = () => {
 						<h5>Des Moines, WA, USA</h5>
 						<h5>Mar 2019 - Jun 2019</h5>
 						<ul>
-							<li>Built a 4 people development team for this project</li>
 							<li>
-								Developed and deployed a WordPress plugin which allows users to
-								generate multiple WordPress pages at once. The plugin also takes
-								excel files for easy data import
+								<a href="wordpress.org/plugins/multiple-page-generator/ ">
+									Plugin Marketplace URL
+								</a>
 							</li>
-							<li>Utilized: PHP, JavaScript, SVN, HTML/CSS</li>
+							<li>Built a 4 people development team for this project</li>
+							<li>Developed a WordPress plugin - Multiple Page Generator</li>
+							<li>
+								Meta Tags Automatically Populated - A single click will create
+								the page. This includes the page name, page title, SEO title,
+								Meta description, and its content
+							</li>
+							<li>
+								Upload Keywords - The plugin also provides a secondary
+								entry/insertion, where you can upload an Excel File (.xlsx) with
+								all your keywords and its values. This, in turn, will
+								automatically populate the database with your keywords
+							</li>
+							<li>Deployed on WordPress plugin marketplace</li>
+							<li>
+								Utilized: HTML/CSS, PHP, JavaScript, JSON, WordPress library,
+								SVN
+							</li>
 						</ul>
 					</div>
 				</div>

@@ -20,7 +20,7 @@ import {
 const Skills = () => {
 	return (
 		<div className="services">
-			<h1 className="py-5">My Core Skills</h1>
+			<h1 className="py-5">Skills</h1>
 			<div className="container">
 				<div className="row">
 					<div className="col-md-3 col-sm-6">

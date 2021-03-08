@@ -221,10 +221,19 @@ nav ul li {
   color: var(--primary-white);
 }
 
-/************************ EXPERIENCE *********************************/
+/************************ EXPERIENCE & EDUCATION*********************************/
 
 .experience {
   padding: 0.7rem;
+}
+
+.education {
+  padding: 0.7rem;
+  background: var(--primary-light-grey);
+}
+
+.education ul, .experience ul{
+  padding-left: 1rem;
 }
 
 .experience-wrapper {
@@ -236,6 +245,10 @@ nav ul li {
 .experience h1 {
   text-transform: uppercase;
   color: var(--primary-orange);
+}
+
+.education h1 {
+  text-transform: uppercase;
 }
 
 .experience-wrapper::before {
