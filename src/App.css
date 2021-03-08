@@ -9,6 +9,9 @@
   --primary-dark: rgb(52, 58, 64);
   --primary-red: #ef4035;
   --primary-hover-red: #f33501;
+  --primary-black: #000000;
+  --primary-transparent-black: rgba(0,0,0,0.7);
+  --primary-green: green;
 }
 
 body {
@@ -324,4 +327,26 @@ nav ul li {
     direction: ltr; 
     width: 100%;
   }
+}
+
+/************************ FOOTER COMPONENT *********************************/
+.footer {
+  background: var(--primary-black);
+  color: var(--primary-dark-grey);
+  padding: 3rem;
+}
+
+.footer a {
+  text-decoration: none;
+  color: var(--primary-dark-grey);
+}
+
+.footer a:hover {
+  text-decoration: none;
+  color: var(--primary-orange);
+  cursor:pointer;
+}
+
+.footer p {
+  margin-bottom: 0;
 }

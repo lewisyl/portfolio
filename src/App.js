@@ -7,6 +7,7 @@ import AboutMe from "./components/AboutMe";
 import Skills from "./components/Skills";
 import Experiences from "./components/Experiences";
 import Education from "./components/Education";
+import Footer from "./components/Footer";
 
 function App() {
 	return (
@@ -38,6 +39,7 @@ function App() {
 			<Skills />
 			<Experiences />
 			<Education />
+			<Footer />
 		</>
 	);
 }
