@@ -5,7 +5,7 @@ import Typed from "react-typed";
 
 const Header = () => {
 	return (
-		<div className="header-wraper">
+		<div id="home" className="header-wraper">
 			<div className="main-info">
 				<h1>Lewis Liu</h1>
 				<Typed
@@ -16,12 +16,22 @@ const Header = () => {
 					loop
 				/>
 				<div class="btn-group" role="group" aria-label="Social Portfolios">
-					<a href="#" className="btn-main-offer">
+					<a
+						href="https://www.linkedin.com/in/lewisliuusa/"
+						target="_blank"
+						rel="noreferrer"
+						className="btn-main-offer"
+					>
 						<FontAwesomeIcon className="icon" icon={faLinkedin} size="1x" />
 						<span> </span>
 						LinkedIn
 					</a>
-					<a href="#" className="btn-main-offer">
+					<a
+						href="https://github.com/lewisyl"
+						target="_blank"
+						rel="noreferrer"
+						className="btn-main-offer"
+					>
 						<FontAwesomeIcon className="icon" icon={faGithub} size="1x" />
 						<span> </span>
 						GitHub

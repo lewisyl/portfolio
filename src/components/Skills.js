@@ -19,7 +19,7 @@ import {
 
 const Skills = () => {
 	return (
-		<div className="services">
+		<div id="skills" className="skills">
 			<h1 className="py-5">Skills</h1>
 			<div className="container">
 				<div className="row">
