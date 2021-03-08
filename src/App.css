@@ -2,7 +2,7 @@
 
 :root {
   --primary-white: #fff;
-  --primary-green: #00d7af;
+  --primary-green: #00af87;
   --primary-dark: rgba(255,255,255, 0);
   --primary-red: #ef4035;
   --primary-hover-red: #f33501;
@@ -14,6 +14,11 @@ font-family: "Roboto Condesed" sans-serif;
 
 
 /************************ NAVBAR *********************************/
+
+nav {
+  z-index: 2;
+}
+
 .logo {
   width: 5.8rem;
 }
@@ -42,6 +47,12 @@ nav ul li {
   height: 6rem !important;
 }
 
+@media(max-width: 768px) {
+ .navbar-brand {
+   width: 7rem;
+ }
+}
+
 .navbar-nav > li > a.active,  .navbar-nav > li > a.active:focus {
   border-top: 0.1875rem solid var(--primary-green);
 }
@@ -49,6 +60,7 @@ nav ul li {
 .navbar-nav > li > a:hover {
   border-top: 0.1875rem solid var(--primary-green);
 }
+
 
 /************************ HEADER *********************************/
 
