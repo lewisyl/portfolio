@@ -16,8 +16,9 @@ const AboutMe = () => {
 						&#128075;Howdy! I am Lewis, a &#128187;Full-stack Software Engineer
 						and Web Developer who loves to solve problems and build things with
 						&#128175;full of passions and a hard-working ethic. I'm also a great
-						&#128101;team-player who believes in "1+1>2", and a fast
-						&#9997;learner who is able to absorb new knowledge &#128640;quickly.
+						&#128101;team-player who believes in &#8968;1+1&gt;2&#8971;, and a
+						fast &#9997;learner who is able to absorb new knowledge
+						&#128640;quickly.
 					</p>
 					<p>
 						Furthermore, I love to spend my free time on &#127956;hiking,
