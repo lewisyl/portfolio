@@ -57,7 +57,11 @@ const Experiences = () => {
 						<h5>Mar 2019 - Jun 2019</h5>
 						<ul>
 							<li>
-								<a href="wordpress.org/plugins/multiple-page-generator/ ">
+								<a
+									href="https://www.wordpress.org/plugins/multiple-page-generator/"
+									target="_blank"
+									rel="noreferrer"
+								>
 									Plugin Marketplace URL
 								</a>
 							</li>

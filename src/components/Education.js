@@ -50,7 +50,11 @@ const Education = () => {
 								Full-stack)
 								<ul>
 									<li>
-										<a href="https://github.com/lewisyl/restaurants">
+										<a
+											href="https://github.com/lewisyl/restaurants"
+											target="_blank"
+											rel="noreferrer"
+										>
 											GitHub Link
 										</a>
 									</li>
@@ -78,7 +82,11 @@ const Education = () => {
 								<strong>Bright Ideas</strong> - C# (ASP.NET Full-stack)
 								<ul>
 									<li>
-										<a href="https://github.com/lewisyl/BrightIdeas">
+										<a
+											href="https://github.com/lewisyl/BrightIdeas"
+											target="_blank"
+											rel="noreferrer"
+										>
 											GitHub Link
 										</a>
 									</li>
@@ -103,7 +111,11 @@ const Education = () => {
 								<strong>Trip Buddy</strong> - Python (Django Full-stack)
 								<ul>
 									<li>
-										<a href="https://github.com/lewisyl/trip_buddy">
+										<a
+											href="https://github.com/lewisyl/trip_buddy"
+											target="_blank"
+											rel="noreferrer"
+										>
 											GitHub Link
 										</a>
 									</li>
@@ -149,7 +161,11 @@ const Education = () => {
 						<h6>Highline College CS Club Official Site Project:</h6>
 						<ul>
 							<li>
-								<a href="https://github.com/lewisyl/hcc_cs_club.git">
+								<a
+									href="https://github.com/lewisyl/hcc_cs_club.git"
+									target="_blank"
+									rel="noreferrer"
+								>
 									GitHub Link
 								</a>
 							</li>
