@@ -17,7 +17,7 @@ const Header = () => {
 				/>
 				<div class="btn-group" role="group" aria-label="Social Portfolios">
 					<a
-						href="https://www.linkedin.com/in/lewisliuusa/"
+						href="https://www.linkedin.com/in/lewisliudev/"
 						target="_blank"
 						rel="noreferrer"
 						className="btn-main-offer"
