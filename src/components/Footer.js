@@ -85,8 +85,8 @@ const Footer = () => {
 							</EmailShareButton>
 						</div>
 						<p className="pt-3 text-center">
-							Copyright&copy;
-							{new Date().getFullYear()}&nbsp; | Lewis Liu | All Rights Reserved
+							Copyright &copy; {new Date().getFullYear()} Lewis Liu | All Rights
+							Reserved
 						</p>
 					</div>
 				</div>
