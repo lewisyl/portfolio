@@ -22,12 +22,16 @@ const Education = () => {
 							</li>
 							<li>Discrete Math</li>
 							<li>Advanced Data Structures & Algorithms</li>
-							<li>Software Applications Development I & II</li>
-							<li>Mobile Application Development I & II</li>
+							<li>
+								Software Applications Development I & II (C#, ASP.NET Core, EF
+								Core)
+							</li>
+							<li>
+								Mobile Application Development I & II (Java, Android Studio)
+							</li>
 							<li>Data Mining</li>
 							<li>Advanced Database Intelligence</li>
 							<li>IT Project Management</li>
-							<li>Emerging Technologies</li>
 						</ul>
 					</div>
 				</div>
