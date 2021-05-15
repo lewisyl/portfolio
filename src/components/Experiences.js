@@ -10,8 +10,21 @@ const Experiences = () => {
 				<div className="timeline-block timeline-block-left">
 					<div className="marker"></div>
 					<div className="timeline-content">
+						<h3>Alaska Airlines - Software Engineer Intern</h3>
+						<h5>Seattle(Remote), WA, USA</h5>
+						<h5>Jun 2021 - Sep 2021 (Upcoming)</h5>
+						<ul>
+							<li>Middleware Services team</li>
+							<li>Utilized: C#, ASP.NET Core, RESTful API</li>
+						</ul>
+					</div>
+				</div>
+				{/* - */}
+				<div className="timeline-block timeline-block-right">
+					<div className="marker"></div>
+					<div className="timeline-content">
 						<h3>SAP Concur - Software Engineer Intern</h3>
-						<h5>Bellvue(Virtual), WA, USA</h5>
+						<h5>Bellvue(Remote), WA, USA</h5>
 						<h5>Jun 2020 - Oct 2020</h5>
 						<ul>
 							<li>Remote agile development working experience</li>
@@ -49,7 +62,7 @@ const Experiences = () => {
 					</div>
 				</div>
 				{/* - */}
-				<div className="timeline-block timeline-block-right">
+				<div className="timeline-block timeline-block-left">
 					<div className="marker"></div>
 					<div className="timeline-content">
 						<h3>Visual Webz, LLC - Web Developer Intern</h3>
