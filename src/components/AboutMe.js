@@ -24,7 +24,7 @@ const AboutMe = () => {
 						Furthermore, I love to spend my free time on &#127956;hiking,
 						&#129343;scuba diving, &#127965;traveling, &#127938;snowboarding,
 						&#127916;watching movies, and (maybe&#128514;) being &#128062;walked
-						by my dogs&#128054;.
+						by my furry buddies&#128054;.
 					</p>
 				</div>
 			</div>
