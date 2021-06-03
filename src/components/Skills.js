@@ -1,6 +1,7 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
+	faAndroid,
 	faBootstrap,
 	faGithub,
 	faJava,
@@ -63,7 +64,7 @@ const Skills = () => {
 								<FontAwesomeIcon className="icon" icon={faDatabase} size="2x" />
 							</div>
 							<h3>DataBase</h3>
-							<p>MySQL(Relational DB), NoSQL(Dynamic DB)</p>.
+							<p>Relational DB(MySQL, MS SQL), Dynamic DB(NoSQL))</p>.
 						</div>
 					</div>
 					{/* - */}
@@ -93,7 +94,17 @@ const Skills = () => {
 								<FontAwesomeIcon className="icon" icon={faJava} size="2x" />
 							</div>
 							<h3>Java</h3>
-							<p>Pure Java, Kotlin</p>
+							<p>Pure Java, Android Development</p>
+						</div>
+					</div>
+					{/* - */}
+					<div className="col-md-3 col-sm-6">
+						<div className="box">
+							<div className="circle">
+								<FontAwesomeIcon className="icon" icon={faAndroid} size="2x" />
+							</div>
+							<h3>Kotlin</h3>
+							<p>Android Studio</p>
 						</div>
 					</div>
 					{/* - */}
