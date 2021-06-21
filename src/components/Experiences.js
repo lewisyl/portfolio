@@ -15,7 +15,7 @@ const Experiences = () => {
 						<h5>Jun 2021 - Present</h5>
 						<ul>
 							<li>Middleware Services team</li>
-							<li>Utilized: C#, ASP.NET Core, RESTful API</li>
+							<li>Utilized: C#, ASP.NET Core, MongoDB, RESTful API</li>
 						</ul>
 					</div>
 				</div>
