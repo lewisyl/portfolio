@@ -11,11 +11,14 @@ const Experiences = () => {
 					<div className="marker"></div>
 					<div className="timeline-content">
 						<h3>Alaska Airlines - Software Engineer Intern</h3>
-						<h5>Seattle(Hybrid), WA, USA</h5>
+						<h5>SeaTac(Hybrid), WA, USA</h5>
 						<h5>Jun 2021 - Present</h5>
 						<ul>
 							<li>Middleware Services team</li>
-							<li>Utilized: C#, ASP.NET Core, MongoDB, RESTful API</li>
+							<li>
+								Utilized: C#, ASP.NET Core, MongoDB, XML, JSON, Git, RESTful
+								API, DevOps, Azure
+							</li>
 						</ul>
 					</div>
 				</div>
