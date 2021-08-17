@@ -14,10 +14,19 @@ const Experiences = () => {
 						<h5>SeaTac(Hybrid), WA, USA</h5>
 						<h5>Jun 2021 - Present</h5>
 						<ul>
-							<li>Middleware Services team</li>
+							<li>Middleware Services team, backend-heavy</li>
 							<li>
-								Utilized: C#, ASP.NET Core, MongoDB, XML, JSON, Git, RESTful
-								API, DevOps, Azure
+								Hands-on experiences on RESTful API design, development,
+								deployment and maintenance on Azure cloud environment that used
+								by airlines
+							</li>
+							<li>
+								Practical experiences on Azure AppInsights, ARM templates,
+								Functions, CI/CD, and MongoDB
+							</li>
+							<li>
+								Utilizing: Azure ARM Template, C#, ASP.NET Core, API, Postman,
+								MongoDB, NoSQL, Git, Azure Portal, DevOps, CI/CD, Agile
 							</li>
 						</ul>
 					</div>
