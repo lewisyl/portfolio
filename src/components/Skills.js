@@ -11,6 +11,7 @@ import {
 	faPython,
 } from "@fortawesome/free-brands-svg-icons";
 import {
+	faCloud,
 	faDatabase,
 	faFileCode,
 	faLanguage,
@@ -71,6 +72,16 @@ const Skills = () => {
 					<div className="col-md-3 col-sm-6">
 						<div className="box">
 							<div className="circle">
+								<FontAwesomeIcon className="icon" icon={faCloud} size="2x" />
+							</div>
+							<h3>Cloud</h3>
+							<p>Azure, AWS</p>
+						</div>
+					</div>
+					{/* - */}
+					<div className="col-md-3 col-sm-6">
+						<div className="box">
+							<div className="circle">
 								<FontAwesomeIcon className="icon" icon={faFileCode} size="2x" />
 							</div>
 							<h3>Web</h3>
@@ -84,7 +95,7 @@ const Skills = () => {
 								<FontAwesomeIcon className="icon" icon={faGithub} size="2x" />
 							</div>
 							<h3>Git</h3>
-							<p>GitHub Version Controll</p>
+							<p>DevOps, GitHub</p>
 						</div>
 					</div>
 					{/* - */}

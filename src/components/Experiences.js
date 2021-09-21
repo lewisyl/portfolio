@@ -10,9 +10,34 @@ const Experiences = () => {
 				<div className="timeline-block timeline-block-left">
 					<div className="marker"></div>
 					<div className="timeline-content">
+						<h3>Alaska Airlines - Software Engineer</h3>
+						<h5>SeaTac, WA, USA</h5>
+						<h5>Sep 2021 - Present</h5>
+						<ul>
+							<li>Middleware Services Team</li>
+							<li>
+								Design, deploy and maintain RESTful APIs on Azure cloud
+								environment
+							</li>
+							<li>
+								Azure AppInsights, ARM templates, Functions, CI/CD and API
+								Manager Pipelines
+							</li>
+							<li>
+								Utilizing: Azure ARM Template, C#, ASP.NET Core, RESTful APIs,
+								Postman, MongoDB, NoSQL, Git, Azure Portal, DevOps, CI/CD
+								Pipelines, Agile
+							</li>
+						</ul>
+					</div>
+				</div>
+				{/* - */}
+				<div className="timeline-block timeline-block-left">
+					<div className="marker"></div>
+					<div className="timeline-content">
 						<h3>Alaska Airlines - Software Engineer Intern</h3>
 						<h5>SeaTac, WA, USA</h5>
-						<h5>Jun 2021 - Present</h5>
+						<h5>Jun 2021 - Sep 2021</h5>
 						<ul>
 							<li>Middleware Services team, backend-heavy</li>
 							<li>
@@ -25,8 +50,9 @@ const Experiences = () => {
 								Functions, CI/CD, and MongoDB
 							</li>
 							<li>
-								Utilizing: Azure ARM Template, C#, ASP.NET Core, API, Postman,
-								MongoDB, NoSQL, Git, Azure Portal, DevOps, CI/CD, Agile
+								Utilized: Azure ARM Template, C#, ASP.NET Core, RESTful API,
+								Postman, MongoDB, NoSQL, Git, Azure Portal, DevOps, CI/CD
+								Pipelines, Agile
 							</li>
 						</ul>
 					</div>

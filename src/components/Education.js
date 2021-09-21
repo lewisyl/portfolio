@@ -10,10 +10,18 @@ const Education = () => {
 				<div className="timeline-block timeline-block-left">
 					<div className="marker"></div>
 					<div className="timeline-content">
-						<h3>Application Development</h3>
+						<h3>Bachelor in Application Development</h3>
 						<h4>Renton Technical College</h4>
-						<h5>Bachelor | Current GPA: 4.0</h5>
-						<h5>Sep 2020 - Jun 2022</h5>
+						<h5>Current GPA: 4.0</h5>
+						<h5>Sep 2020 - Mar 2022</h5>
+						<h6>CS Teaching Assistant/Tutor:</h6>
+						<ul>
+							<li>From Jun 2021 to Graduation:</li>
+							<li>
+								Assisting in Computer Science programming courses, including C#,
+								OOP and more
+							</li>
+						</ul>
 						<h6>Core Courses:</h6>
 						<ul>
 							<li>
@@ -143,9 +151,9 @@ const Education = () => {
 				<div className="timeline-block timeline-block-left">
 					<div className="marker"></div>
 					<div className="timeline-content">
-						<h3>Web Development</h3>
+						<h3>Associate in Web Development</h3>
 						<h4>Highline College</h4>
-						<h5>Associate of Science | GPA: 3.89</h5>
+						<h5>GPA: 3.89</h5>
 						<h5>Jun 2017 - Jun 2019</h5>
 						<h6>Graduated with Honors:</h6>
 						<ul>
